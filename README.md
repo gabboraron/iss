@@ -1,2 +1,2 @@
 # iss
-Thsi is an WebVR game
+This is an WebVR game
